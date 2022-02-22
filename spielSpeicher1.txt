@@ -1,0 +1,3 @@
+GELB-B:0, GELB-C:0, GELB-D:0, GRUEN-A:0, GRUEN-B:0, GRUEN-C:0, GRUEN-D:0, Schlumpfine:1, GELB-A:3, Fliege:20:K, Doc:29
+GELB,GRUEN
+1
